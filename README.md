@@ -110,3 +110,14 @@ By adding 121043 and 213548 gives us 334591, which was the answer. So it is posi
 
 Now we can simply input the same string and add the third and ninth decimals as our answer to get the string:
 
+```bash
+$ ./guessPublic64
+Welcome to the number guessing game!
+Before we begin, please enter your name (40 chars max): 
+%d %d %d %d %d %d %d %d %d
+I'm thinking of two random numbers (0 to 1000000), can you tell me their sum?
+1291100892 625 266123 -1343201116 -1343200992 1291101208 0 4196944 409334's guess: 675457
+Congrats, here's a flag: REDACTED
+```
+
+There we go. We were able to guess the correct number and retrieve the flag.
