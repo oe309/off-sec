@@ -1,5 +1,6 @@
 # ANGSTORM CTF 2018: Number Guess
 
+**Team:** ATLEASTWETRIED
 **Category:** Binary
 **Points:** 70
 **Description:**
